@@ -56,19 +56,19 @@ o user.address.city
 
 # Tech Stack
 
-• React.js – Frontend framework
-• Vite – Bundler
-• @xyflow/react – React Flow visualization
-• Tailwind CSS – Styling
-• JavaScript (ES6) – Logic
+1. React.js – Frontend framework
+2. Vite – Bundler
+3. @xyflow/react – React Flow visualization
+4. Tailwind CSS – Styling
+5. JavaScript (ES6) – Logic
 
 # Component Structure
 
-• TopBar.jsx – Header with search and theme toggle
-• JsonInput.jsx – JSON input and visualize options
-• TreeVisualizer.jsx – Renders JSON as a tree graph
-• App.css – Styles and themes
-• App.jsx – Main application structure
+1. TopBar.jsx – Header with search and theme toggle
+2. JsonInput.jsx – JSON input and visualize options
+3. TreeVisualizer.jsx – Renders JSON as a tree graph
+4. App.css – Styles and themes
+5. App.jsx – Main application structure
 
 # Usage Guide
 
